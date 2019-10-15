@@ -1,0 +1,26 @@
+	p {
+		color: #02ff00;
+		font-size: 48px;
+		font-family: 'El Messiri', sans-serif;
+        font-family: 'Bad Script', cursive;
+		text-align: center;
+		text-shadow:  1px 1px 2px blue,0 0 1em red;
+	 }
+	div{ width:70%;
+		margin:auto;
+	}
+	a
+{font-size: 50px;
+	color:#fcfebc;
+	text-decoration: none;
+	display: inline-block;
+	margin: 30px;
+	padding: 5px;
+	border: 2px dotted #fcfebc;
+	transition: 0.8s ease-in;
+}
+body {
+	background-color:#000000;
+	background-size: cover;
+	background-position: center;
+}
